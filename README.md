@@ -1,5 +1,5 @@
 # Engine
-Hobby project, requires C++17 and x86 architechture to compile.
+Hobby project, requires C++17 to compile.
 
 Made with the engine ->
 
